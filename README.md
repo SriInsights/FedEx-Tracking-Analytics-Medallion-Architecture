@@ -6,8 +6,7 @@ The solution integrates with the FedEx API, processes data using a Medallion Arc
 
 ## Problem Statement:
 Tracking Shipments manually via the FedEx portal is inefficient and lacks centralized visibility.
-
-## Organizations Need:
+### Organizations Need:
   Real Time Shipment tracking
   Centralized reporting
   Actionable insights on delivery performance.
