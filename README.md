@@ -8,10 +8,10 @@ The solution integrates with the **FedEx API**, processes data using a **Medalli
 ---
 
 ##  Problem Statement
-Tracking shipments manually via the FedEx portal is inefficient and lacks centralized visibility.
+Tracking shipments manually for IT equipment  via the FedEx portal which is inefficient and lacks centralized visibility.
 
 Organizations need:
-- Real-time shipment tracking
+- Real-time shipment tracking for sending and returing IT equipment.
 - Centralized reporting
 - Actionable insights on delivery performance
 
